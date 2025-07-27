@@ -1,4 +1,4 @@
-# justcorp
+# JustCorp
   <head>
     <meta name="google-site-verification" content="cbH4-MeDuRbf-ZH-Tr0QJ865CeRlGpNx_yIWyDek80Y" />
   </head>
