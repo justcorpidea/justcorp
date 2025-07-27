@@ -1,0 +1,10 @@
+title: JustCorp
+theme: jekyll-theme-cayman
+include:
+  - app-ads.txt
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      head: head-custom.html
